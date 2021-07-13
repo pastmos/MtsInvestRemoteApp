@@ -1,0 +1,6 @@
+framework module Pods_RemoteApp {
+  umbrella header "Pods-RemoteApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
